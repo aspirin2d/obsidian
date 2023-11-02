@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "931a773a934a4b16",
+        "id": "9296add16946bcbc",
         "type": "tabs",
         "children": [
           {
-            "id": "053d14315194bcb6",
+            "id": "ff82033dcc3212ac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/Hello, World.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/Hello, World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/Hello, World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/Hello, World.md"
+              }
             }
           }
         ]
@@ -130,17 +138,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "053d14315194bcb6",
+  "active": "ff82033dcc3212ac",
   "lastOpenFiles": [
+    "notes/Hello, World.md",
+    "notes",
     "configs/lunarvim.lua.md",
     "configs/lvim-config.lua",
     "configs"
