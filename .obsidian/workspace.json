@@ -23,12 +23,18 @@
             "id": "b94794949cf45d1a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/solution.excalidraw.md"
               }
+            }
+          },
+          {
+            "id": "9df0e45ec281e5e2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Excalidraw/solution.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Excalidraw/solution.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Excalidraw/solution.excalidraw.md"
               }
             }
           }
@@ -163,6 +169,10 @@
   "active": "b94794949cf45d1a",
   "lastOpenFiles": [
     "notes/Hello, World.md",
+    "Excalidraw/solution.excalidraw.md",
+    "fonts/851.ttf",
+    "fonts",
+    "Excalidraw",
     "README.md",
     "notes",
     "configs/lunarvim.lua.md",
