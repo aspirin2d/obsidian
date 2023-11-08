@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Hello, World.md",
+                "file": "notes/铁匠的故事.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,9 +33,11 @@
             "id": "88552a957e459e16",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/battlefield.excalidraw.md"
+                "file": "notes/Config Files.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/battlefield.excalidraw.md",
+                "file": "notes/Config Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/battlefield.excalidraw.md",
+                "file": "notes/Config Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/battlefield.excalidraw.md"
+                "file": "notes/Config Files.md"
               }
             }
           }
@@ -172,8 +174,9 @@
   "lastOpenFiles": [
     "Excalidraw/solution.excalidraw.md",
     "Excalidraw/battlefield.excalidraw.md",
+    "notes/铁匠的故事.md",
+    "notes/Config Files.md",
     "Excalidraw/solution.excalidraw.png",
-    "notes/Hello, World.md",
     "fonts/851.ttf",
     "fonts",
     "Excalidraw",

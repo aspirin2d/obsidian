@@ -1,3 +1,6 @@
+## Lunarvim
+
+```lua
 -- install plugins
 lvim.plugins = {
   "stevearc/dressing.nvim",
@@ -13,6 +16,17 @@ lvim.plugins = {
       vim.api.nvim_set_keymap("n", "s", ":HopChar1<cr>", { silent = true })
       vim.api.nvim_set_keymap("n", "S", ":HopWord<cr>", { silent = true })
     end,
+  },
+  {
+    "zbirenbaum/copilot-cmp",
+    event = "InsertEnter",
+    dependencies = { "zbirenbaum/copilot.lua" },
+    config = function()
+      vim.defer_fn(function()
+        require("copilot").setup()     -- https://github.com/zbirenbaum/copilot.lua/blob/master/README.md#setup-and-configuration
+        require("copilot_cmp").setup() -- https://github.com/zbirenbaum/copilot-cmp/blob/master/README.md#configuration
+      end, 100)
+    end
   },
 }
 
@@ -75,3 +89,4 @@ lvim.keys.normal_mode["<leader>d"] = ":TroubleToggle document_diagnostics<cr>"
 
 -- disable highlight
 lvim.keys.normal_mode["<leader>h"] = ":noh<cr>"
+```
